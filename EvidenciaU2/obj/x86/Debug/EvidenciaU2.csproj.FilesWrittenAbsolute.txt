@@ -1,0 +1,5 @@
+/home/diego-d/MonoProjects/EvidenciaU2/EvidenciaU2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/diego-d/MonoProjects/EvidenciaU2/EvidenciaU2/bin/Debug/EvidenciaU2.exe.mdb
+/home/diego-d/MonoProjects/EvidenciaU2/EvidenciaU2/bin/Debug/EvidenciaU2.exe
+/home/diego-d/MonoProjects/EvidenciaU2/EvidenciaU2/obj/x86/Debug/EvidenciaU2.exe
+/home/diego-d/MonoProjects/EvidenciaU2/EvidenciaU2/obj/x86/Debug/EvidenciaU2.exe.mdb
